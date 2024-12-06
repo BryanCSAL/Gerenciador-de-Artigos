@@ -50,7 +50,7 @@ Este projeto está licenciado sob a **Licença MIT**. Consulte o arquivo ***[LIC
 
 #### **Certifique-se de ter criado:**
 ```sql
-CREATE DATABASE ROBATA;
+CREATE DATABASE GERENCIADOR;
 
 CREATE TABLE usuario (
     id INT AUTO_INCREMENT PRIMARY KEY,
