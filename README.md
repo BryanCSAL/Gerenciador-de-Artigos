@@ -73,7 +73,7 @@ CREATE TABLE publicacao (
 1. **Descompactação do Projeto**: Feito o download do projeto, descompacte o arquivo em formato ZIP em uma pasta no seu htdocs do XAMP.
 2. **Configuração do Banco de Dados**: Ative o MySQL no XAMP.
 3. **Configuração do Ambiente**: Ative o Apache no XAMP.
-4. **Execução do Projeto**: Abra seu browser e digite na url "http://localhost/(NOME DA PASTA)/" substituindo o (NOME DA PASTA), pelo nome da pasta que você criou anteriormente.
+4. **Execução do Projeto**: Abra seu browser e digite na url "http://localhost/(NOME_DA_PASTA)/" substituindo o (NOME_DA_PASTA), pelo nome da pasta que você criou anteriormente.
 
 ---
   
