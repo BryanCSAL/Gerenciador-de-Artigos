@@ -23,7 +23,7 @@ Uma aplicação web capaz de gerenciar de artigos, integrada a um banco de dados
 
 ## **Funcionalidades**
 - ✅ ***[Funcionalidade 1: Criar Artigos]***
-- ✅ ***[Funcionalidade 2: Gerenciar Artigos]***
+- ✅ ***[Funcionalidade 2: Modificar Artigos]***
 - ✅ ***[Funcionalidade 3: Deletar Artigos]***
 
 ---
@@ -74,6 +74,8 @@ CREATE TABLE publicacao (
 2. **Configuração do Banco de Dados**: Ative o MySQL no XAMP.
 3. **Configuração do Ambiente**: Ative o Apache no XAMP.
 4. **Execução do Projeto**: Abra seu browser e digite na url "http://localhost/(NOME_DA_PASTA)/" substituindo o (NOME_DA_PASTA), pelo nome da pasta que você criou anteriormente.
+
+**Observação**: O arquivo "Extra" foi feito somente para atender algumas especificações que haviam no critério de nota, portanto, não faz parte do site.
 
 ---
   
